@@ -1,0 +1,27 @@
+{
+  "name": "bosaltyapi-4",
+  "version": "1.0.0",
+  "description": "`/dowlander/events/message.js` giriyoruz ve orda önümüze prefix yeri çıkıyor ordan ayarlayabilirsiniz.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zKaanStrqfe/bosaltyapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zKaanStrqfe/bosaltyapi/issues"
+  },
+  "homepage": "https://github.com/zKaanStrqfe/bosaltyapi#readme",
+  "dependencies": {
+    "archex": "^8.6.1",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3"
+  }
+}
